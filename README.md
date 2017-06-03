@@ -1,2 +1,2 @@
-# PB-exam-06032016
+# GitHub-exercise-PF
 Repo for exercise.
